@@ -1,3 +1,2 @@
-/*
-!/rest/src
-!/rest/pom.xml
+/rest/.*
+/rest/target
